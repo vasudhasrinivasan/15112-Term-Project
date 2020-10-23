@@ -1,3 +1,6 @@
+#File needed to run main game
+#cmu_112_graphics file from http://www.cs.cmu.edu/~112/notes/hw7.html
+
 # cmu_112_graphics.py
 # version 0.8.5
 
